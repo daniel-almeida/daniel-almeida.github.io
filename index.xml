@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DANIEL ALMEIDA</title>
+    <link>https://www.danielalmeida.me/</link>
+    <description>Recent content on DANIEL ALMEIDA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.danielalmeida.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes: Radical Candor</title>
+      <link>https://www.danielalmeida.me/posts/2020/07/notes-radical-candor/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.danielalmeida.me/posts/2020/07/notes-radical-candor/</guid>
+      <description>Introduction Anecdote 1 (Juice Software)
+Failure to provide feedback at Juice Software. As a manager and founder, Kim Scott failed to provide critical feedback to an underperfoming employee (Bob), which led to other team members having to carry his weight. Months later Bob was fired and expressed frustration with the lack of clear feedback from Kim and his team.
+Anecdote 2 (Google: Free at Work)
+In a meeting with Larry Page, Matt Cutts pushed back hard on an idea.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.danielalmeida.me/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.danielalmeida.me/about/</guid>
+      <description>I&amp;rsquo;m an experienced Software Engineer particularly interested in software design and distributed systems. I find joy in building great software with other humans.
+I am also researcher in training (aka Ph.D. Student) in Computer Science at the University of British Columbia (currently on leave). I&amp;rsquo;m a member of the Software Practices Lab working with Gail Murphy. My research interests include software comprehension/evolution and empirical software engineering.
+The best way to reach me is by e-mail.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,13 @@
+main h1 {
+    font-size: 3em;
+    font-weight: 300;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+
+main p {
+    font-size: 1.3em;
+    font-weight: 300;
+    text-align: center;
+}

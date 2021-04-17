@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/danielalmeida
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://danielalmeida.me
+  * I am danielalmeida (https://keybase.io/danielalmeida) on keybase.
+  * I have a public key with fingerprint A3A6 AB49 F321 1692 8CD2  FBAA E416 9C2C 0388 04D9
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010175e7f71bb555d7841cb12826e1c417f5617927f48725a128b93d14c088d480d00a",
+      "fingerprint": "a3a6ab49f32116928cd2fbaae4169c2c038804d9",
+      "host": "keybase.io",
+      "key_id": "e4169c2c038804d9",
+      "kid": "010175e7f71bb555d7841cb12826e1c417f5617927f48725a128b93d14c088d480d00a",
+      "uid": "ed6fb721d8d95d42c41c039a9b644c19",
+      "username": "danielalmeida"
+    },
+    "service": {
+      "hostname": "danielalmeida.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1505844728,
+  "expire_in": 157680000,
+  "prev": "3a881e759c5002a40f6de9df3a483fffa08d9aeb2fc73e67d23800b0f8b04f43",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUm1MU2cUbgsisFUwoJDp+LgGdFvj7mfvvd0AmVsW4haBSZCI1Pfe+95ybWlL
+ewG/ICwi2KLGjSVTQJkoC2GGzbG5mGmmkUXF4PxAJptputlNnBg+XWEE3Fu3/fPn
+3j9vzjnPeZ7nnJyD+jBNtDawtNUQtjd8SHv1gaApurB5dicmOKTtmGknZoVPP2iT
+oFs1WxUJM2E4gRMsA1mZJQSBYRiJ5WhCFAiSI42QEGmClRkjwfIkK9McSzIAVQSe
+kghaxDlOojlcwnGAGTBZsVugy+lS7CqiBRQwAoHmZYokCCNPcqJEygIAkEaRSIo4
+xXE4LfGosdThDnUgcwJww9WKA+VQYH5q7xn4/9l3xT86klEWWJKQOIlnJJpEBEiT
+B7xgpGmRCOlWuKHLDsogQkvArkAbsJVBRQJYtQFDpUpFhKHthsZ5Fmw1Shkwp8uh
+OkSHDVVLVdVpCjWr250hdBUUzP/ymAXFLqF9ooZK6HIrDjtmIhBSVJUQMcHgDEfT
+LMkZMLjNqbigWQkhGNbI4eiFZGAlZgIYBTiOgCzDiwyOk4DGZaMEeUmmAM1RsiwD
+HM0LoEDKIktBIyuRFGIQcJkTcFqmKSw0WrndgcgRqwosyKdbsdiBWuGCWHW0R7c8
+XKON1kQs0IVOTRMdFfvf/Z1Li9XseeGjuMi+nKF3WkVLum0gPNIWiCQVc9YJ9U/v
+WHBueneV4/u6I4fGEmJeWmtrnkq5aecGmRu8wX9wILC8LSbaknqgsITyLWJK4rrG
+rz9sKEjWrXuzK7/0N3N2blPdUs9bDf1jJc71iYc/9W65UfhuwdbgqSYrcfS9Sw9y
+zzSOeSbu1p6sCUwRecuyThQ3+Of4mZ7L8cOP4hfWJ77v03Z8HXTLg72H9X0B3Y4n
+Zyt1/nRfN1+cX9T8eENSQe/GTfOlU390FU8ebekt+3jFL7bdd06fSsmZWP/4FSHf
+alliaN+09oPjir57caDr7XsVRvMX6qtphoyBpJcHs2OCCXrrX97CtqrCz77aFpGj
+fRKVVXB7POPilf1hyZPTed2m4Bv7t6Yu9u8Z7K29+HzclyeTdxnYek/8upq+FuuM
+79KPrXK54z7WuSbymnfZvmOVrNtHDGcONemkGs/eXc3XM7e8WN4f2OxRGjZ8M5X0
+3On2mVXXXtetuTWbboofmfVO1Oo+HMX9E6Pp37Y3HmnuT+xcUb2q3nR5/BPX1Y4a
+nzxXdAU29PfcSR7Ii/o8VvPTd+bUhTeHR87WpS3Ki/DPL3hEXKB3PPw527syd/T2
+VIo7fzq37fdDd+d7dB0zLec7RiIyEo6BzsjJjfuCNcfnlggjZwK3knOn9Zn3z5l/
+9TXK9+bPr9S/9kPT3w==
+=npUT
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/danielalmeida
+
+==================================================================
+
